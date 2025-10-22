@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// This is the first C++ program made and uloaded to Git/GitHub
+
 int main() {
 	int a = 7;
 	double b = 2.5;
